@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/yan-duarte/qstatistic
+    $ git clone git://github.com/yan-duarte/qStatistic
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/yan-duarte/qstatistic/tarball/master
+    $ curl  -OL https://github.com/yan-duarte/qStatistic/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/yan-duarte/qstatistic
-.. _tarball: https://github.com/yan-duarte/qstatistic/tarball/master
+.. _Github repo: https://github.com/yan-duarte/qStatistic
+.. _tarball: https://github.com/yan-duarte/qStatistic/tarball/master
