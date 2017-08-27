@@ -24,19 +24,19 @@ test_requirements = [
 ]
 
 setup(
-    name='qstatistic',
+    name='qStatistic',
     version='0.1.0',
     description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
     long_description=readme + '\n\n' + history,
     author="Yan Anderson Siriano Duarte",
     author_email='yan_asd@hotmail.com',
     url='https://github.com/yan-duarte/qStatistic',
-    packages=find_packages(include=['qstatistic']),
+    packages=find_packages(include=['qStatistic']),
     include_package_data=True,
     install_requires=requirements,
     license="GNU General Public License v3",
     zip_safe=False,
-    keywords='qstatistic',
+    keywords='qStatistic',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',

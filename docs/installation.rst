@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install qstatistic, run this command in your terminal:
+To install qStatistic, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install qstatistic
+    $ pip install qStatistic
 
-This is the preferred method to install qstatistic, as it will always install the most recent stable release. 
+This is the preferred method to install qStatistic, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,7 +26,7 @@ you through the process.
 From sources
 ------------
 
-The sources for qstatistic can be downloaded from the `Github repo`_.
+The sources for qStatistic can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 

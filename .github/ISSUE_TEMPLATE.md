@@ -1,4 +1,4 @@
-* qstatistic version:
+* qStatistic version:
 * Python version:
 * Operating System:
 

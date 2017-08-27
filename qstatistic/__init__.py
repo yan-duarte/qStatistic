@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Top-level package for qstatistic."""
+"""Top-level package for qStatistic."""
 
 __author__ = """Yan Anderson Siriano Duarte"""
 __email__ = 'yan_asd@hotmail.com'

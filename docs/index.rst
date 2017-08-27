@@ -1,4 +1,4 @@
-Welcome to qstatistic's documentation!
+Welcome to qStatistic's documentation!
 ======================================
 
 Contents:

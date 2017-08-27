@@ -1,16 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Tests for `qstatistic` package."""
+"""Tests for `qStatistic` package."""
 
 
 import unittest
 
-from qstatistic import qstatistic
+from qStatistic import qStatistic
 
 
 class TestQstatistic(unittest.TestCase):
-    """Tests for `qstatistic` package."""
+    """Tests for `qStatistic` package."""
 
     def setUp(self):
         """Set up test fixtures, if any."""

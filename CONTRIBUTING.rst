@@ -38,8 +38,8 @@ and "help wanted" is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-qstatistic could always use more documentation, whether as part of the
-official qstatistic docs, in docstrings, or even on the web in blog posts,
+qStatistic could always use more documentation, whether as part of the
+official qStatistic docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback
@@ -57,17 +57,17 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here's how to set up `qstatistic` for local development.
+Ready to contribute? Here's how to set up `qStatistic` for local development.
 
-1. Fork the `qstatistic` repo on GitHub.
+1. Fork the `qStatistic` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:yan-duarte/qstatistic.git
+    $ git clone git@github.com:yan-duarte/qStatistic.git
 
 3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
 
-    $ mkvirtualenv qstatistic
-    $ cd qstatistic/
+    $ mkvirtualenv qStatistic
+    $ cd qStatistic/
     $ python setup.py develop
 
 4. Create a branch for local development::
@@ -78,7 +78,7 @@ Ready to contribute? Here's how to set up `qstatistic` for local development.
 
 5. When you're done making changes, check that your changes pass flake8 and the tests, including testing other Python versions with tox::
 
-    $ flake8 qstatistic tests
+    $ flake8 qStatistic tests
     $ python setup.py test or py.test
     $ tox
 
@@ -102,7 +102,7 @@ Before you submit a pull request, check that it meets these guidelines:
    your new functionality into a function with a docstring, and add the
    feature to the list in README.rst.
 3. The pull request should work for Python 2.6, 2.7, 3.3, 3.4 and 3.5, and for PyPy. Check
-   https://travis-ci.org/yan-duarte/qstatistic/pull_requests
+   https://travis-ci.org/yan-duarte/qStatistic/pull_requests
    and make sure that the tests pass for all supported Python versions.
 
 Tips
@@ -111,4 +111,4 @@ Tips
 To run a subset of tests::
 
 
-    $ python -m unittest tests.test_qstatistic
+    $ python -m unittest tests.test_qStatistic
