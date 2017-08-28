@@ -25,8 +25,8 @@ test_requirements = [
 
 setup(
     name='qStatistic',
-    version='0.1.0',
-    description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
+    version='0.1.0.1',
+    description="qStatistic Library.",
     long_description=readme + '\n\n' + history,
     author="Yan Anderson Siriano Duarte",
     author_email='yan_asd@hotmail.com',
