@@ -25,7 +25,7 @@ test_requirements = [
 
 setup(
     name='qStatistic',
-    version='0.1.0.2',
+    version='version='0.2.0'',
     description="qStatistic Library.",
     long_description=readme + '\n\n' + history,
     author="Yan Anderson Siriano Duarte",
