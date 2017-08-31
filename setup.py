@@ -25,7 +25,7 @@ test_requirements = [
 
 setup(
     name='qstatistic',
-    version='0.2.0',
+    version='0.1.0.1',
     description="qstatistic Library.",
     long_description=readme + '\n\n' + history,
     author="Yan Anderson Siriano Duarte",
@@ -42,13 +42,7 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Natural Language :: English',
-        "Programming Language :: Python :: 2",
-        'Programming Language :: Python :: 2.6',
-        'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.3',
-        'Programming Language :: Python :: 3.4',
-        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3.6',
     ],
     test_suite='tests',
     tests_require=test_requirements,

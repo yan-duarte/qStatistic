@@ -45,7 +45,7 @@ class qGaussian:
 
         # q exponential function e^-Bx²
         self.e = qExponential(
-            x=-self.B*math.pow(self.x,2),
+            x=-self.B*math.pow(self.x, 2),
             q=self.q
         ).calc()
 
@@ -72,7 +72,7 @@ class qSigmoide:
         self.a = a
         self.q = q
 
-        self.D =  math.fabs((self.I - self.B)/self.a) + 0.0001;
+        self.D = math.fabs((self.I - self.B)/self.a) + 0.0001
 
 
     def calc(self):
@@ -91,3 +91,18 @@ class qSigmoide:
             result = self.L
 
         return [result, self.D]
+
+
+class qWeibull:
+    def __init__(self, x, q, lamb, k):
+        self.x = x
+        self.q = q
+        self.lamb = lamb
+        self.k = k
+
+    def calc(self):
+        if self.x >= 0:
+            return (2 - self.q)*(self.k/self.lamb)*math.pow(self.x/self.lamb, self.k - 1) * \
+                            qExponential(x=-math.pow(self.x/self.lamb, self.k), q=self.q).calc()
+        else:
+            return 0
