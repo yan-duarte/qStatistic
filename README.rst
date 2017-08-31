@@ -1,20 +1,20 @@
 ==========
-qStatistic
+qstatistic
 ==========
 
 
-.. image:: https://img.shields.io/pypi/v/qStatistic.svg
-        :target: https://pypi.python.org/pypi/qStatistic
+.. image:: https://img.shields.io/pypi/v/qstatistic.svg
+        :target: https://pypi.python.org/pypi/qstatistic
 
-.. image:: https://img.shields.io/travis/yan-duarte/qStatistic.svg
-        :target: https://travis-ci.org/yan-duarte/qStatistic
+.. image:: https://img.shields.io/travis/yan-duarte/qstatistic.svg
+        :target: https://travis-ci.org/yan-duarte/qstatistic
 
-.. image:: https://readthedocs.org/projects/qStatistic/badge/?version=latest
-        :target: https://qStatistic.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/qstatistic/badge/?version=latest
+        :target: https://qstatistic.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/yan-duarte/qStatistic/shield.svg
-     :target: https://pyup.io/repos/github/yan-duarte/qStatistic/
+.. image:: https://pyup.io/repos/github/yan-duarte/qstatistic/shield.svg
+     :target: https://pyup.io/repos/github/yan-duarte/qstatistic/
      :alt: Updates
 
 
@@ -22,7 +22,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://qStatistic.readthedocs.io.
+* Documentation: https://qstatistic.readthedocs.io.
 
 
 Features

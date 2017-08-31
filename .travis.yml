@@ -19,7 +19,7 @@ deploy:
       eFY0VE9GSnZkZUJrM1dyNFhMcFU1b3pNdDUyV3FKakdtY3czQzJhMGMwQktYMUVQczRYR3pUVVE9
   true:
     python: 3.6
-    repo: yan-duarte/qStatistic
+    repo: yan-duarte/qstatistic
     tags: true
 install: pip install -U tox-travis
 language: python

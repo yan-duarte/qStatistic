@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use qStatistic in a project::
+To use qstatistic in a project::
 
-    import qStatistic
+    import qstatistic

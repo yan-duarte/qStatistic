@@ -13,7 +13,7 @@ class qExponential:
         else:
             temp = 1 + (1 - self.q)*self.x
             if temp > 0:
-                return math.pow(temp,1/(1 - self.q))
+                return math.pow(temp, 1/(1 - self.q))
             else:
                 return 0
 

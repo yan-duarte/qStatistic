@@ -24,19 +24,19 @@ test_requirements = [
 ]
 
 setup(
-    name='qStatistic',
-    version="version='0.2.0'",
-    description="qStatistic Library.",
+    name='qstatistic',
+    version='0.2.0',
+    description="qstatistic Library.",
     long_description=readme + '\n\n' + history,
     author="Yan Anderson Siriano Duarte",
     author_email='yan_asd@hotmail.com',
-    url='https://github.com/yan-duarte/qStatistic',
-    packages=find_packages(include=['qStatistic']),
+    url='https://github.com/yan-duarte/qstatistic',
+    packages=find_packages(include=['qstatistic']),
     include_package_data=True,
     install_requires=requirements,
     license="GNU General Public License v3",
     zip_safe=False,
-    keywords='qStatistic',
+    keywords='qstatistic',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
