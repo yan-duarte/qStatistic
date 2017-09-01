@@ -3,18 +3,18 @@ qstatistic
 ==========
 
 
-.. image:: https://img.shields.io/pypi/v/qstatistic.svg
-        :target: https://pypi.python.org/pypi/qstatistic
+.. image:: https://img.shields.io/pypi/v/qStatistic.svg
+        :target: https://pypi.python.org/pypi/qStatistic
 
-.. image:: https://img.shields.io/travis/yan-duarte/qstatistic.svg
-        :target: https://travis-ci.org/yan-duarte/qstatistic
+.. image:: https://img.shields.io/travis/yan-duarte/qStatistic.svg
+        :target: https://travis-ci.org/yan-duarte/qStatistic
 
 .. image:: https://readthedocs.org/projects/qstatistic/badge/?version=latest
         :target: https://qstatistic.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/yan-duarte/qstatistic/shield.svg
-     :target: https://pyup.io/repos/github/yan-duarte/qstatistic/
+.. image:: https://pyup.io/repos/github/yan-duarte/qStatistic/shield.svg
+     :target: https://pyup.io/repos/github/yan-duarte/qStatistic/
      :alt: Updates
 
 
