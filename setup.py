@@ -13,6 +13,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     # TODO: put package requirements here
+    'numpy==1.13.1'
 ]
 
 setup_requirements = [
@@ -21,11 +22,12 @@ setup_requirements = [
 
 test_requirements = [
     # TODO: put package test requirements here
+    'numpy==1.13.1'
 ]
 
 setup(
     name='qstatistic',
-    version='0.1.0.1',
+    version='0.1.0.2',
     description="qstatistic Library.",
     long_description=readme + '\n\n' + history,
     author="Yan Anderson Siriano Duarte",
