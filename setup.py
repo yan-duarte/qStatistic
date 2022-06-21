@@ -13,7 +13,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     # TODO: put package requirements here
-    'numpy==1.13.1'
+    'numpy==1.22.0'
 ]
 
 setup_requirements = [
@@ -22,7 +22,7 @@ setup_requirements = [
 
 test_requirements = [
     # TODO: put package test requirements here
-    'numpy==1.13.1'
+    'numpy==1.22.0'
 ]
 
 setup(
